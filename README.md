@@ -1,5 +1,5 @@
 # qa_python
-def test_add_new_book_add_two_books(self)  - Проверяем, что добавилось именно две книги
+def test_add_new_book_add_two_books(self)  - Проверяем, что добавилось две книги
 def test_add_new_book_already_exists(self) - Проверяем, что добавление дублирующей книги не приведет к созданию нескольких записей
 def test_add_new_book_empty_name(self) - Проверям, что книга без названия не добавлена
 def test_add_new_book_long_name(self) - Проверяем, что книга с название больше 40 символом не добавлена в список
